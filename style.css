@@ -1,0 +1,14 @@
+#rs_menu {
+	width: 100%;
+	display: none;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+	z-index: 999;
+	margin: 0;
+}
+#rs_menu_icon {
+	width: 40px;
+	margin: 8px 5px 8px 5px;
+	float: right;
+}
